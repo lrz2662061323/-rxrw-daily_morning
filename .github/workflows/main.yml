@@ -30,5 +30,8 @@ jobs:
       USER_ID: ${{ secrets.USER_ID }}
       USER_ID1: ${{ secrets.USER_ID1 }}
       USER_ID_XIEHONG: ${{ secrets.USER_ID_XIEHONG }}
+      USER_ID_YANGLAN: ${{ secrets.USER_ID_YANGLAN }}
+      USER_ID_ZOUJINGYANG: ${{ secrets.USER_ID_ZOUJINGYANG }}
+      USER_ID_WUQIYU: ${{ secrets.USER_ID_WUQIYU }}
       BIRTHDAY: ${{ secrets.BIRTHDAY }}
       CITY: ${{ secrets.CITY }}
