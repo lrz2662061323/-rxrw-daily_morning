@@ -62,6 +62,6 @@ reswqy = wm.send_template(user_idwqy, template_id, data)
 print(res)
 #print(res1)
 #print(resXiehong)
-print(resZouzou)
+#print(resZouzou)
 print(reswqy)
 
