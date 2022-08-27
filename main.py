@@ -59,9 +59,10 @@ res1 = wm.send_template(user_id1, template_id, data)
 resXiehong = wm.send_template(user_idXiehong, template_id, data)
 resZouzou = wm.send_template(user_idZouzou, template_id, data)
 reswqy = wm.send_template(user_idwqy, template_id, data)
+
 print(res)
-#print(res1)
-#print(resXiehong)
+print(res1)
+print(resXiehong)
 print(resZouzou)
-#print(reswqy)
+print(reswqy)
 
